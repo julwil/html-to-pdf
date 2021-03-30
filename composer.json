@@ -1,5 +1,5 @@
 {
-    "name": "spiritix/html-to-pdf",
+    "name": "julwil/html-to-pdf",
     "type": "library",
     "description": "Convert HTML markup into beautiful PDF files using the famous wkhtmltopdf library",
     "license": "MIT",
