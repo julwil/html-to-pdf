@@ -40,7 +40,7 @@ class Converter
     /**
      * Relative path to the AMD library,
      */
-    const PATH_BINARY_AMD = 'h4cc/wkhtmltopdf-amd64/bin/wkhtmltopdf-amd64';
+    const PATH_BINARY_AMD = 'silvertipsoftware/wkhtmltopdf-amd64/bin/wkhtmltopdf-amd64';
 
     /**
      * Input instance.
